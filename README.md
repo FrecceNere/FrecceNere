@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FrecceNere&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## Learning Roadmap
+[![roadmap.sh](https://roadmap.sh/card/tall/6824a4e92755c7024402c3ed?variant=dark&roadmaps=linux)](https://roadmap.sh)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
